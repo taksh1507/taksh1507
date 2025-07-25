@@ -27,9 +27,7 @@ Key features:
 SubscriptionEngine is an automated platform for managing recurring subscriptions and payments. It provides a seamless interface for users to subscribe to various services, handle payment processing, and manage subscription lifecycles. The backend is designed for reliability and extensibility, supporting webhooks, notifications, and integration with multiple payment gateways.  
 Key features:  
 - Automated billing and invoicing  
-- Subscription plan management and upgrades/downgrades  
-- Payment gateway integration (Stripe, PayPal, etc.)  
-- Renewal reminders and failed payment handling  
+- Subscription plan management and upgrades/downgrades   
 - Analytics dashboard for tracking revenue and user engagement  
 [Project link](https://github.com/taksh1507/subscriptionengine)  
 
