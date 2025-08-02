@@ -46,11 +46,7 @@ Core functionalities:
 
 ---
 
-## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=taksh1507&theme=onedark&column=7&no-bg=true)
-
----
 
 ## 📊 GitHub Stats
 
@@ -59,6 +55,11 @@ Core functionalities:
   <img src="https://streak-stats.demolab.com/?user=taksh1507&theme=radical" alt="GitHub Streak" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taksh1507&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
 </p>
+
+---
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=taksh1507&theme=onedark&column=7&no-bg=true)
 
 ---
 
