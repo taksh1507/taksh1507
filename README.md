@@ -5,9 +5,20 @@ I am currently pursuing my undergraduate studies in <b>Information Technology</b
 I am deeply passionate about <b>backend development</b> and <b>cybersecurity</b>, and I am continuously expanding my knowledge and skills in these domains.
 </p>
 
+<h2>💻 Technologies & Tools</h2>
+
 <p>
-My technical toolkit includes: <br>
-<b>Python</b>, <b>Java</b>, <b>C</b>, <b>.NET</b>, <b>CSS</b>, <b>HTML</b>, <b>JavaScript</b>, <b>Linux</b>, <b>Git</b>, <b>Windows</b>, <b>MySQL</b>, <b>MSSQL</b>, <b>SSMS</b>, and <b>Data Structures & Algorithms</b>.
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
 </p>
 
 ---
@@ -52,21 +63,7 @@ An automated platform to manage recurring subscriptions and payments. Core funct
 
 ---
 
-<h2>💻 Technologies & Tools</h2>
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-</p>
 
 ---
 
