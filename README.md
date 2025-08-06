@@ -79,7 +79,6 @@ An automated platform to manage recurring subscriptions and payments. Core funct
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=taksh1507&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://streak-stats.demolab.com/?user=taksh1507&theme=radical" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taksh1507&layout=compact&theme=radical" height="180px"/>
 </p>
 
