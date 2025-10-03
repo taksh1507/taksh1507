@@ -215,7 +215,7 @@ graph LR
 |--------|--------|
 | **Backend** | Node.js, Express.js, RESTful APIs, Microservices, Authentication, Authorization |
 | **Frontend** | React.js, HTML5, CSS3, JavaScript, Responsive Design |
-| **Security** | OWASP Top 10, Secure Coding, Vulnerability Assessment |
+| **Security** | CTF Challenges, Vulnerability Scanning, Penetration Testing |
 | **Database** | MySQL, PostgreSQL, MSSQL, Query Optimization, Indexing, Stored Procedures |
 | **DSA** | Trees, Graphs, Dynamic Programming, Greedy Algorithms |
 | **Gen AI** | ChatGPT, GitHub Copilot, Google Gemini, Prompt Engineering |
@@ -238,11 +238,15 @@ graph LR
 
 ---
 
-## 🌟 Open Source Contributions
+## 🌟 GitHub Contribution Streak
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/taksh1507/taksh1507/output/github-contribution-grid-snake-dark.svg)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=taksh1507&theme=radical&hide_border=true&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)](https://git.io/streak-stats)
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=taksh1507&custom_title=Taksh's%20Contribution%20Graph&theme=react-dark&hide_border=true&bg_color=0D1117&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF" width="100%"/>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=taksh1507&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
