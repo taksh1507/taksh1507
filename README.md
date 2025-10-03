@@ -191,52 +191,51 @@ me.say_hi()
 <div align="center">
 
 ```mermaid
-%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#00D9FF','primaryTextColor':'#fff','primaryBorderColor':'#00D9FF','lineColor':'#00D9FF','secondaryColor':'#1a1a2e','tertiaryColor':'#16213e'}}}%%
-mindmap
-  root((Taksh's<br/>Tech Journey))
-    Backend Development
-      RESTful APIs
-        OpenAPI/Swagger
-        JWT Authentication
-      Microservices
-        Docker
-        Service Mesh
-      Database Design
-        PostgreSQL
-        Query Optimization
-        Indexing Strategies
-    Cybersecurity
-      Web Security
-        OWASP Top 10
-        XSS & CSRF Protection
-      Penetration Testing
-        Burp Suite
-        Metasploit
-      CTF Challenges
-        TryHackMe
-        HackTheBox
-    Full Stack
-      Frontend
-        React.js
-        Responsive Design
-      Backend
-        Node.js
-        Express.js
-      DevOps
-        CI/CD Pipeline
-        Docker Containers
-    Learning Path
-      System Design
-        Scalability
-        Load Balancing
-        Caching Strategies
-      Cloud Architecture
-        AWS/Azure
-        Serverless
-      Advanced DSA
-        Graph Algorithms
-        Dynamic Programming
-        Competitive Programming
+graph TB
+    A[🎯 Taksh's Tech Focus 2024-2025] --> B[💻 Backend Development]
+    A --> C[🔒 Cybersecurity]
+    A --> D[🌐 Full Stack]
+    A --> E[📚 Learning Path]
+    
+    B --> B1[RESTful APIs]
+    B --> B2[Microservices]
+    B --> B3[Database Design]
+    B1 --> B1a[OpenAPI/Swagger]
+    B1 --> B1b[JWT Auth]
+    B2 --> B2a[Docker]
+    B2 --> B2b[Service Mesh]
+    B3 --> B3a[PostgreSQL]
+    B3 --> B3b[Query Optimization]
+    
+    C --> C1[Web Security]
+    C --> C2[Penetration Testing]
+    C --> C3[CTF Challenges]
+    C1 --> C1a[OWASP Top 10]
+    C1 --> C1b[XSS & CSRF]
+    C2 --> C2a[Burp Suite]
+    C2 --> C2b[Metasploit]
+    C3 --> C3a[TryHackMe]
+    C3 --> C3b[HackTheBox]
+    
+    D --> D1[Frontend: React.js]
+    D --> D2[Backend: Node.js]
+    D --> D3[DevOps: CI/CD]
+    
+    E --> E1[System Design]
+    E --> E2[Cloud Architecture]
+    E --> E3[Advanced DSA]
+    E1 --> E1a[Scalability]
+    E1 --> E1b[Load Balancing]
+    E2 --> E2a[AWS/Azure]
+    E2 --> E2b[Serverless]
+    E3 --> E3a[Graph Algorithms]
+    E3 --> E3b[Dynamic Programming]
+    
+    style A fill:#00D9FF,stroke:#00D9FF,color:#000
+    style B fill:#512BD4,stroke:#512BD4,color:#fff
+    style C fill:#FF6B6B,stroke:#FF6B6B,color:#fff
+    style D fill:#61DAFB,stroke:#61DAFB,color:#000
+    style E fill:#339933,stroke:#339933,color:#fff
 ```
 
 ### 🚀 2024-2025 Goals
