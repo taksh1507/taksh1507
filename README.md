@@ -191,17 +191,75 @@ me.say_hi()
 <div align="center">
 
 ```mermaid
-graph LR
-    A[Backend Development] --> B[RESTful APIs]
-    A --> C[Microservices]
-    A --> D[Database Optimization]
-    E[Cybersecurity] --> F[Web Security]
-    E --> G[Penetration Testing]
-    E --> H[Secure Coding]
-    I[Learning] --> J[System Design]
-    I --> K[Cloud Architecture]
-    I --> L[Advanced DSA]
+%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#00D9FF','primaryTextColor':'#fff','primaryBorderColor':'#00D9FF','lineColor':'#00D9FF','secondaryColor':'#1a1a2e','tertiaryColor':'#16213e'}}}%%
+mindmap
+  root((Taksh's<br/>Tech Journey))
+    Backend Development
+      RESTful APIs
+        OpenAPI/Swagger
+        JWT Authentication
+      Microservices
+        Docker
+        Service Mesh
+      Database Design
+        PostgreSQL
+        Query Optimization
+        Indexing Strategies
+    Cybersecurity
+      Web Security
+        OWASP Top 10
+        XSS & CSRF Protection
+      Penetration Testing
+        Burp Suite
+        Metasploit
+      CTF Challenges
+        TryHackMe
+        HackTheBox
+    Full Stack
+      Frontend
+        React.js
+        Responsive Design
+      Backend
+        Node.js
+        Express.js
+      DevOps
+        CI/CD Pipeline
+        Docker Containers
+    Learning Path
+      System Design
+        Scalability
+        Load Balancing
+        Caching Strategies
+      Cloud Architecture
+        AWS/Azure
+        Serverless
+      Advanced DSA
+        Graph Algorithms
+        Dynamic Programming
+        Competitive Programming
 ```
+
+### 🚀 2024-2025 Goals
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Backend-Mastery-00D9FF?style=for-the-badge&logo=node.js&logoColor=white"/>
+      <br><strong>Build Production-Ready APIs</strong>
+      <br><sub>Microservices | Scalability | Security</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Security-Expert-FF6B6B?style=for-the-badge&logo=hackaday&logoColor=white"/>
+      <br><strong>Master Cybersecurity</strong>
+      <br><sub>Pentesting | CTFs | Secure Coding</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Full_Stack-Developer-512BD4?style=for-the-badge&logo=react&logoColor=white"/>
+      <br><strong>Complete Web Stack</strong>
+      <br><sub>React | Node.js | PostgreSQL</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -243,16 +301,6 @@ graph LR
 </table>
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=taksh1507&theme=radical&hide_border=true&layout=compact" alt="Wakatime Stats"/>
-
-</div>
-
----
-
-## 🌟 GitHub Contribution Streak
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=taksh1507&theme=radical&hide_border=true&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)](https://git.io/streak-stats)
 
 </div>
 
