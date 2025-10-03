@@ -186,77 +186,164 @@ me.say_hi()
 
 ---
 
-## 🎯 Current Focus
+## 🎯 My Tech Journey & Skill Progression
 
 <div align="center">
 
-```mermaid
-graph TB
-    A[🎯 Taksh's Tech Focus 2024-2025] --> B[💻 Backend Development]
-    A --> C[🔒 Cybersecurity]
-    A --> D[🌐 Full Stack]
-    A --> E[📚 Learning Path]
-    
-    B --> B1[RESTful APIs]
-    B --> B2[Microservices]
-    B --> B3[Database Design]
-    B1 --> B1a[OpenAPI/Swagger]
-    B1 --> B1b[JWT Auth]
-    B2 --> B2a[Docker]
-    B2 --> B2b[Service Mesh]
-    B3 --> B3a[PostgreSQL]
-    B3 --> B3b[Query Optimization]
-    
-    C --> C1[Web Security]
-    C --> C2[Penetration Testing]
-    C --> C3[CTF Challenges]
-    C1 --> C1a[OWASP Top 10]
-    C1 --> C1b[XSS & CSRF]
-    C2 --> C2a[Burp Suite]
-    C2 --> C2b[Metasploit]
-    C3 --> C3a[TryHackMe]
-    C3 --> C3b[HackTheBox]
-    
-    D --> D1[Frontend: React.js]
-    D --> D2[Backend: Node.js]
-    D --> D3[DevOps: CI/CD]
-    
-    E --> E1[System Design]
-    E --> E2[Cloud Architecture]
-    E --> E3[Advanced DSA]
-    E1 --> E1a[Scalability]
-    E1 --> E1b[Load Balancing]
-    E2 --> E2a[AWS/Azure]
-    E2 --> E2b[Serverless]
-    E3 --> E3a[Graph Algorithms]
-    E3 --> E3b[Dynamic Programming]
-    
-    style A fill:#00D9FF,stroke:#00D9FF,color:#000
-    style B fill:#512BD4,stroke:#512BD4,color:#fff
-    style C fill:#FF6B6B,stroke:#FF6B6B,color:#fff
-    style D fill:#61DAFB,stroke:#61DAFB,color:#000
-    style E fill:#339933,stroke:#339933,color:#fff
+### 🔥 Current Skill Levels
+
+```
+Backend Development     ████████████████░░░░  80%  ⚡ Advanced
+Cybersecurity          ███████████████░░░░░  75%  � Intermediate+
+Full Stack Dev         ████████████░░░░░░░░  60%  🌐 Intermediate
+Database Design        ██████████████░░░░░░  70%  💾 Intermediate+
+Cloud & DevOps         ████████░░░░░░░░░░░░  40%  ☁️  Learning
+System Design          ███████████░░░░░░░░░  55%  📐 Intermediate
 ```
 
-### 🚀 2024-2025 Goals
+### 🎮 Achievement Unlocked
 
 <table>
   <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Backend-Mastery-00D9FF?style=for-the-badge&logo=node.js&logoColor=white"/>
-      <br><strong>Build Production-Ready APIs</strong>
-      <br><sub>Microservices | Scalability | Security</sub>
+    <td align="center" width="20%">
+      <img width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg"/>
+      <br><b>Python Master</b>
+      <br><sub>⭐⭐⭐⭐⭐</sub>
     </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Security-Expert-FF6B6B?style=for-the-badge&logo=hackaday&logoColor=white"/>
-      <br><strong>Master Cybersecurity</strong>
-      <br><sub>Pentesting | CTFs | Secure Coding</sub>
+    <td align="center" width="20%">
+      <img width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg"/>
+      <br><b>JS Specialist</b>
+      <br><sub>⭐⭐⭐⭐</sub>
     </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Full_Stack-Developer-512BD4?style=for-the-badge&logo=react&logoColor=white"/>
-      <br><strong>Complete Web Stack</strong>
-      <br><sub>React | Node.js | PostgreSQL</sub>
+    <td align="center" width="20%">
+      <img width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg"/>
+      <br><b>DB Architect</b>
+      <br><sub>⭐⭐⭐⭐</sub>
     </td>
+    <td align="center" width="20%">
+      <img width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg"/>
+      <br><b>React Builder</b>
+      <br><sub>⭐⭐⭐</sub>
+    </td>
+    <td align="center" width="20%">
+      <img width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg"/>
+      <br><b>Linux Ninja</b>
+      <br><sub>⭐⭐⭐⭐</sub>
+    </td>
+  </tr>
+</table>
+
+### 📈 2024 Learning Roadmap
+
+<table>
+  <tr>
+    <td width="25%" align="center">
+      <br>
+      <img src="https://img.shields.io/badge/Q4_2024-ACTIVE-00D9FF?style=for-the-badge"/>
+      <br><br>
+      <b>🎯 Current Sprint</b>
+      <br><br>
+      ✅ Advanced DSA<br>
+      ✅ System Design Basics<br>
+      🔄 Docker & K8s<br>
+      📝 React.js Projects<br>
+      � AWS Fundamentals
+    </td>
+    <td width="25%" align="center">
+      <br>
+      <img src="https://img.shields.io/badge/Q1_2025-PLANNED-512BD4?style=for-the-badge"/>
+      <br><br>
+      <b>🚀 Next Up</b>
+      <br><br>
+      📌 Microservices Architecture<br>
+      📌 Redis & Caching<br>
+      📌 Web3 Basics<br>
+      📌 GraphQL<br>
+      📌 Pentesting Pro
+    </td>
+    <td width="25%" align="center">
+      <br>
+      <img src="https://img.shields.io/badge/Q2_2025-UPCOMING-339933?style=for-the-badge"/>
+      <br><br>
+      <b>🌟 Future Goals</b>
+      <br><br>
+      🎯 Contribute to FOSS<br>
+      🎯 Build SaaS Product<br>
+      🎯 Cloud Certifications<br>
+      🎯 Tech Blogging<br>
+      🎯 Hackathon Winner
+    </td>
+    <td width="25%" align="center">
+      <br>
+      <img src="https://img.shields.io/badge/2025_END-VISION-FF6B6B?style=for-the-badge"/>
+      <br><br>
+      <b>💎 Dream Level</b>
+      <br><br>
+      🏆 Full Stack Expert<br>
+      🏆 Security Specialist<br>
+      🏆 Open Source Contributor<br>
+      🏆 Tech Community Leader<br>
+      🏆 Internship @ FAANG
+    </td>
+  </tr>
+</table>
+
+### 🎲 Daily Coding Streak
+
+<div align="center">
+
+```
+Mon  ███████ 7 hrs
+Tue  ████████ 8 hrs
+Wed  ██████ 6 hrs
+Thu  █████████ 9 hrs  🔥 Best Day!
+Fri  ████████ 8 hrs
+Sat  ████ 4 hrs
+Sun  ███ 3 hrs
+
+💪 Weekly Total: 45 hours  |  ⚡ Avg: 6.4 hrs/day
+```
+
+</div>
+
+### 🎪 Tech Stack Battle Arena
+
+<table>
+  <tr>
+    <th>🥊 Category</th>
+    <th>⚔️ Currently Using</th>
+    <th>🎯 Want to Learn</th>
+    <th>📊 Priority</th>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>Node.js, Express, Python</td>
+    <td>Nest.js, Fastify, Go</td>
+    <td>🔥🔥🔥🔥</td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>React, HTML/CSS</td>
+    <td>Next.js, TypeScript, Tailwind</td>
+    <td>🔥🔥🔥</td>
+  </tr>
+  <tr>
+    <td><b>Database</b></td>
+    <td>MySQL, PostgreSQL</td>
+    <td>MongoDB, Redis, Cassandra</td>
+    <td>🔥🔥🔥🔥</td>
+  </tr>
+  <tr>
+    <td><b>DevOps</b></td>
+    <td>Git, Linux</td>
+    <td>Docker, K8s, CI/CD, Terraform</td>
+    <td>🔥🔥🔥🔥🔥</td>
+  </tr>
+  <tr>
+    <td><b>Security</b></td>
+    <td>Burp Suite, Metasploit</td>
+    <td>Wireshark, OSCP Prep</td>
+    <td>🔥🔥🔥🔥🔥</td>
   </tr>
 </table>
 
