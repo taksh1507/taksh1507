@@ -61,6 +61,7 @@ me.say_hi()
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ### DevOps & Tools
@@ -73,8 +74,11 @@ me.say_hi()
 ![DSA](https://img.shields.io/badge/Data%20Structures-FF6F00?style=for-the-badge&logo=datacamp&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-00979D?style=for-the-badge&logo=hackaday&logoColor=white)
 ![API Development](https://img.shields.io/badge/API%20Development-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-Learning-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Gen AI Tools
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
 
@@ -209,10 +213,12 @@ graph LR
 
 | Domain | Skills |
 |--------|--------|
-| **Backend** | RESTful APIs, Microservices, Authentication, Authorization |
+| **Backend** | Node.js, Express.js, RESTful APIs, Microservices, Authentication, Authorization |
+| **Frontend** | React.js, HTML5, CSS3, JavaScript, Responsive Design |
 | **Security** | OWASP Top 10, Secure Coding, Vulnerability Assessment |
-| **Database** | Query Optimization, Indexing, Stored Procedures, Transactions |
+| **Database** | MySQL, PostgreSQL, MSSQL, Query Optimization, Indexing, Stored Procedures |
 | **DSA** | Trees, Graphs, Dynamic Programming, Greedy Algorithms |
+| **Gen AI** | ChatGPT, GitHub Copilot, Google Gemini, Prompt Engineering |
 | **Tools** | Git Workflows, CI/CD Basics, Docker (Learning) |
 
 </div>
