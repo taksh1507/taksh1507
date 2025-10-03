@@ -225,12 +225,22 @@ graph LR
 
 ---
 
-## 🎮 Coding Stats
+## � GitHub Insights & Metrics
 
 <div align="center">
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taksh1507&theme=radical" width="100%"/>
+
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=taksh1507&theme=radical" alt="Repos per Language"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=taksh1507&theme=radical" alt="Most Commit Language"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=taksh1507&theme=radical" alt="Stats"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=taksh1507&theme=radical" alt="Productive Time"/></td>
+  </tr>
+</table>
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=taksh1507&theme=radical&hide_border=true&layout=compact" alt="Wakatime Stats"/>
 
@@ -243,10 +253,6 @@ graph LR
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=taksh1507&theme=radical&hide_border=true&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)](https://git.io/streak-stats)
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=taksh1507&custom_title=Taksh's%20Contribution%20Graph&theme=react-dark&hide_border=true&bg_color=0D1117&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF" width="100%"/>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=taksh1507&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
