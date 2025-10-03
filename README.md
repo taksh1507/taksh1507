@@ -1,44 +1,8 @@
 <div align="center">
   
-# ðŸ‘¨â€ðŸ’» Hi, I'm Taksh Gandhi
+# 👨‍💻 Hi, I'm Taksh Gandhi
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&wi```
-Backend Development     â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘### ðŸ“ˆ 2024-2025   <tr>
-    <td width="25%" align="center">
-      <br>
-      <img src="https://img.shields.io/badge/Q1_2025-ACTIVE-00D9FF?style=for-the-badge"/>
-      <br><br>
-      <b>ðŸŽ¯ Current Sprint</b>
-      <br><br>
-      âœ… Advanced DSA<br>
-      âœ… System Design Basics<br>
-      ðŸ”„ Docker & K8s<br>
-      ðŸ“ React.js Projects<br>
-      ðŸ“ AWS Fundamentals
-    </td>
-    <td width="25%" align="center">
-      <br>
-      <img src="https://img.shields.io/badge/Q2_2025-PLANNED-512BD4?style=for-the-badge"/>
-
-<table>
-  <tr>
-    <td width="25%" align="center">
-      <br>
-      <img src="https://img.shields.io/badge/Q4_2024-ACTIVE-00D9FF?style=for-the-badge"/>
-      <br><br>
-      <b>ðŸŽ¯ Current Sprint</b>
-      <br><br>
-      âœ… Advanced DSA<br>
-      âœ… System Design Basics<br>
-      ðŸ”„ Docker & K8s<br>
-      ðŸ“ React.js Projects<br>
-      ðŸ“ AWS Fundamentalsced
-Cybersecurity          â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–‘â–‘  75%  ðŸ”’ Intermediate+
-Full Stack Dev         â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘  60%  ðŸŒ Intermediate
-Database Design        â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–‘â–‘â–‘  70%  ðŸ’¾ Intermediate+
-Cloud & DevOps         â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘  40%  â˜ï¸  Learning
-System Design          â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘  55%  ðŸ“ Intermediate
-```lines=Backend+Developer+%7C+Cybersecurity+Enthusiast;Building+Scalable+%26+Secure+Systems;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Cybersecurity+Enthusiast;Building+Scalable+%26+Secure+Systems;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taksh-gandhi-4136222b7)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:takshgandhi1507@gmail.com)
@@ -51,7 +15,7 @@ System Design          â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ�
 
 ---
 
-## ðŸš€ About Me
+## 🚀 About Me
 
 ```python
 class Taksh:
@@ -69,15 +33,15 @@ me = Taksh()
 me.say_hi()
 ```
 
-ðŸŽ“ Currently pursuing **Bachelor's in Information Technology** (3rd Year)  
-ðŸ’¡ Passionate about building **robust backend systems** and exploring **cybersecurity**  
-ðŸ”­ Working on **scalable applications** and **security-focused projects**  
-ðŸŒ± Currently learning **Advanced DSA**, **System Design**, and **Penetration Testing**  
-âš¡ Fun fact: I debug with coffee and secure systems for fun!
+🎓 Currently pursuing **Bachelor's in Information Technology** (3rd Year)  
+💡 Passionate about building **robust backend systems** and exploring **cybersecurity**  
+🔭 Working on **scalable applications** and **security-focused projects**  
+🌱 Currently learning **Advanced DSA**, **System Design**, and **Penetration Testing**  
+⚡ Fun fact: I debug with coffee and secure systems for fun!
 
 ---
 
-## ðŸ› ï¸ Tech Arsenal
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
@@ -120,14 +84,14 @@ me.say_hi()
 
 ---
 
-## ðŸ—ï¸ Featured Projects
+## 🏗️ Featured Projects
 
 <div align="center">
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">ðŸ”” AlertMe</h3>
+      <h3 align="center">🔔 AlertMe</h3>
       <div align="center">
         <a href="https://github.com/taksh1507/AlertMe-Government-Deadline-Assistant" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=taksh1507&repo=AlertMe-Government-Deadline-Assistant&theme=tokyonight" alt="AlertMe" />
@@ -141,16 +105,16 @@ me.say_hi()
           <img src="https://img.shields.io/badge/Real--time-FF6B6B?style=flat-square"/>
         </p>
         <ul align="left">
-          <li>ðŸš¨ Real-time event detection & processing</li>
-          <li>âš™ï¸ Flexible alert rules & escalation</li>
-          <li>ðŸ“Š Integration with monitoring platforms</li>
-          <li>ðŸ” Role-based access control</li>
-          <li>ðŸ“ Detailed audit trails</li>
+          <li>🚨 Real-time event detection & processing</li>
+          <li>⚙️ Flexible alert rules & escalation</li>
+          <li>📊 Integration with monitoring platforms</li>
+          <li>🔐 Role-based access control</li>
+          <li>📝 Detailed audit trails</li>
         </ul>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">ðŸ“¦ SubscriptionEngine</h3>
+      <h3 align="center">📦 SubscriptionEngine</h3>
       <div align="center">
         <a href="https://github.com/taksh1507/subscriptionengine" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=taksh1507&repo=subscriptionengine&theme=tokyonight" alt="SubscriptionEngine" />
@@ -164,11 +128,11 @@ me.say_hi()
           <img src="https://img.shields.io/badge/Automation-00D9FF?style=flat-square"/>
         </p>
         <ul align="left">
-          <li>ðŸ’³ Automated billing & invoicing</li>
-          <li>ðŸ“… Subscription plan management</li>
-          <li>ðŸ”— Webhook & API integration</li>
-          <li>ðŸ“ˆ Revenue analytics dashboard</li>
-          <li>ðŸ”” Payment reminders & notifications</li>
+          <li>💳 Automated billing & invoicing</li>
+          <li>📅 Subscription plan management</li>
+          <li>🔗 Webhook & API integration</li>
+          <li>📈 Revenue analytics dashboard</li>
+          <li>🔔 Payment reminders & notifications</li>
         </ul>
       </div>
     </td>
@@ -179,7 +143,7 @@ me.say_hi()
 
 ---
 
-## ðŸ“Š GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
   
@@ -192,7 +156,7 @@ me.say_hi()
 
 ---
 
-## ðŸ† GitHub Achievements
+## 🏆 GitHub Achievements
 
 <div align="center">
   
@@ -202,7 +166,7 @@ me.say_hi()
 
 ---
 
-## ðŸ“ˆ Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
 
@@ -212,7 +176,7 @@ me.say_hi()
 
 ---
 
-## ðŸ’¼ Top Repositories
+## 💼 Top Repositories
 
 <div align="center">
   
@@ -222,49 +186,104 @@ me.say_hi()
 
 ---
 
-## ðŸŽ¯ My Tech Journey & Skill Progression
+## 🎯 My Tech Journey & Skill Progression
 
 <div align="center">
 
-### ðŸ”¥ Current Skill Levels
+### 🔥 Current Skill Levels
 
 ```
-Backend Development     â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–‘  80%  âš¡ Advanced
-Cybersecurity          â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–‘â–‘  75%  ï¿½ Intermediate+
-Full Stack Dev         â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘  60%  ðŸŒ Intermediate
-Database Design        â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–‘â–‘â–‘  70%  ðŸ’¾ Intermediate+
-Cloud & DevOps         â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘  40%  â˜ï¸  Learning
-System Design          â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘  55%  ðŸ“ Intermediate
+Backend Development     ████████████████░░░░  80%  ⚡ Advanced
+Cybersecurity          ███████████████░░░░░  75%  � Intermediate+
+Full Stack Dev         ████████████░░░░░░░░  60%  🌐 Intermediate
+Database Design        ██████████████░░░░░░  70%  💾 Intermediate+
+Cloud & DevOps         ████████░░░░░░░░░░░░  40%  ☁️  Learning
+System Design          ███████████░░░░░░░░░  55%  📐 Intermediate
 ```
 
-### ðŸŽ® Achievement Unlocked
+### 🎮 Achievement Unlocked
 
 <table>
   <tr>
     <td align="center" width="20%">
       <img width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg"/>
       <br><b>Python Master</b>
-      <br><sub>â­â­â­â­â­</sub>
+      <br><sub>⭐⭐⭐⭐⭐</sub>
     </td>
     <td align="center" width="20%">
       <img width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg"/>
       <br><b>JS Specialist</b>
-      <br><sub>â­â­â­â­</sub>
+      <br><sub>⭐⭐⭐⭐</sub>
     </td>
     <td align="center" width="20%">
       <img width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg"/>
       <br><b>DB Architect</b>
-      <br><sub>â­â­â­â­</sub>
+      <br><sub>⭐⭐⭐⭐</sub>
     </td>
     <td align="center" width="20%">
       <img width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg"/>
       <br><b>React Builder</b>
-      <br><sub>â­â­â­</sub>
+      <br><sub>⭐⭐⭐</sub>
     </td>
     <td align="center" width="20%">
       <img width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg"/>
       <br><b>Linux Ninja</b>
-      <br><sub>â­â­â­â­</sub>
+      <br><sub>⭐⭐⭐⭐</sub>
+    </td>
+  </tr>
+</table>
+
+### 📈 2024 Learning Roadmap
+
+<table>
+  <tr>
+    <td width="25%" align="center">
+      <br>
+      <img src="https://img.shields.io/badge/Q4_2024-ACTIVE-00D9FF?style=for-the-badge"/>
+      <br><br>
+      <b>🎯 Current Sprint</b>
+      <br><br>
+      ✅ Advanced DSA<br>
+      ✅ System Design Basics<br>
+      🔄 Docker & K8s<br>
+      📝 React.js Projects<br>
+      � AWS Fundamentals
+    </td>
+    <td width="25%" align="center">
+      <br>
+      <img src="https://img.shields.io/badge/Q1_2025-PLANNED-512BD4?style=for-the-badge"/>
+      <br><br>
+      <b>🚀 Next Up</b>
+      <br><br>
+      📌 Microservices Architecture<br>
+      📌 Redis & Caching<br>
+      📌 Web3 Basics<br>
+      📌 GraphQL<br>
+      📌 Pentesting Pro
+    </td>
+    <td width="25%" align="center">
+      <br>
+      <img src="https://img.shields.io/badge/Q2_2025-UPCOMING-339933?style=for-the-badge"/>
+      <br><br>
+      <b>🌟 Future Goals</b>
+      <br><br>
+      🎯 Contribute to FOSS<br>
+      🎯 Build SaaS Product<br>
+      🎯 Cloud Certifications<br>
+      🎯 Tech Blogging<br>
+      🎯 Hackathon Winner
+    </td>
+    <td width="25%" align="center">
+      <br>
+      <img src="https://img.shields.io/badge/2025_END-VISION-FF6B6B?style=for-the-badge"/>
+      <br><br>
+      <b>💎 Dream Level</b>
+      <br><br>
+      🏆 Full Stack Expert<br>
+      🏆 Security Specialist<br>
+      🏆 Open Source Contributor<br>
+      🏆 Tech Community Leader<br>
+      🏆 Internship @ FAANG
     </td>
   </tr>
 </table>
@@ -274,57 +293,57 @@ System Design          â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ�
 <div align="center">
 
 ```
-Mon  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ 7 hrs
-Tue  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ 8 hrs
-Wed  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ 6 hrs
-Thu  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ 9 hrs  ðŸ”¥ Best Day!
-Fri  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ 8 hrs
-Sat  â–ˆâ–ˆâ–ˆâ–ˆ 4 hrs
-Sun  â–ˆâ–ˆâ–ˆ 3 hrs
+Mon  ███████ 7 hrs
+Tue  ████████ 8 hrs
+Wed  ██████ 6 hrs
+Thu  █████████ 9 hrs  🔥 Best Day!
+Fri  ████████ 8 hrs
+Sat  ████ 4 hrs
+Sun  ███ 3 hrs
 
-ðŸ’ª Weekly Total: 45 hours  |  âš¡ Avg: 6.4 hrs/day
+💪 Weekly Total: 45 hours  |  ⚡ Avg: 6.4 hrs/day
 ```
 
 </div>
 
-### ðŸŽª Tech Stack Battle Arena
+### 🎪 Tech Stack Battle Arena
 
 <table>
   <tr>
-    <th>ðŸ¥Š Category</th>
-    <th>âš”ï¸ Currently Using</th>
-    <th>ðŸŽ¯ Want to Learn</th>
-    <th>ðŸ“Š Priority</th>
+    <th>🥊 Category</th>
+    <th>⚔️ Currently Using</th>
+    <th>🎯 Want to Learn</th>
+    <th>📊 Priority</th>
   </tr>
   <tr>
     <td><b>Backend</b></td>
     <td>Node.js, Express, Python</td>
     <td>Nest.js, Fastify, Go</td>
-    <td>ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥</td>
+    <td>🔥🔥🔥🔥</td>
   </tr>
   <tr>
     <td><b>Frontend</b></td>
     <td>React, HTML/CSS</td>
     <td>Next.js, TypeScript, Tailwind</td>
-    <td>ðŸ”¥ðŸ”¥ðŸ”¥</td>
+    <td>🔥🔥🔥</td>
   </tr>
   <tr>
     <td><b>Database</b></td>
     <td>MySQL, PostgreSQL</td>
     <td>MongoDB, Redis, Cassandra</td>
-    <td>ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥</td>
+    <td>🔥🔥🔥🔥</td>
   </tr>
   <tr>
     <td><b>DevOps</b></td>
     <td>Git, Linux</td>
     <td>Docker, K8s, CI/CD, Terraform</td>
-    <td>ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥</td>
+    <td>🔥🔥🔥🔥🔥</td>
   </tr>
   <tr>
     <td><b>Security</b></td>
     <td>Burp Suite, Metasploit</td>
     <td>Wireshark, OSCP Prep</td>
-    <td>ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥</td>
+    <td>🔥🔥🔥🔥🔥</td>
   </tr>
 </table>
 
@@ -332,7 +351,7 @@ Sun  â–ˆâ–ˆâ–ˆ 3 hrs
 
 ---
 
-## ðŸ“š Latest Skills & Certifications
+## 📚 Latest Skills & Certifications
 
 <div align="center">
 
@@ -350,7 +369,7 @@ Sun  â–ˆâ–ˆâ–ˆ 3 hrs
 
 ---
 
-## ï¿½ GitHub Insights & Metrics
+## � GitHub Insights & Metrics
 
 <div align="center">
 
@@ -373,7 +392,7 @@ Sun  â–ˆâ–ˆâ–ˆ 3 hrs
 
 ---
 
-## ðŸ’¡ Random Dev Quote
+## 💡 Random Dev Quote
 
 <div align="center">
 
@@ -383,17 +402,17 @@ Sun  â–ˆâ–ˆâ–ˆ 3 hrs
 
 ---
 
-## ðŸ¤ Let's Collaborate!
+## 🤝 Let's Collaborate!
 
 <div align="center">
 
 I'm always interested in collaborating on:
-- ðŸ”§ **Backend Projects** - APIs, Microservices, System Design
-- ðŸ”’ **Security Tools** - Vulnerability scanners, Security automation
-- ðŸ“š **Open Source** - Contributing to meaningful projects
-- ðŸ’¡ **Innovative Ideas** - Let's build something amazing!
+- 🔧 **Backend Projects** - APIs, Microservices, System Design
+- 🔒 **Security Tools** - Vulnerability scanners, Security automation
+- 📚 **Open Source** - Contributing to meaningful projects
+- 💡 **Innovative Ideas** - Let's build something amazing!
 
-### ðŸ“¬ Reach Out
+### 📬 Reach Out
 
 <p align="center">
   <a href="https://www.linkedin.com/in/taksh-gandhi-4136222b7" target="_blank">
@@ -419,6 +438,6 @@ I'm always interested in collaborating on:
   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
 </p>
 
-<p align="center">â­ï¸ From <a href="https://github.com/taksh1507">taksh1507</a> with ðŸ’™</p>
+<p align="center">⭐️ From <a href="https://github.com/taksh1507">taksh1507</a> with 💙</p>
 
 </div>
