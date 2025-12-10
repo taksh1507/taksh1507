@@ -160,7 +160,7 @@ me.say_hi()
 
 <div align="center">
   
-<img src="https://github-profile-trophy.vercel.app/?username=taksh1507&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=taksh1507&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
 
 </div>
 
@@ -204,7 +204,7 @@ me.say_hi()
 
 ---
 
-## � GitHub Insights & Metrics
+## 📊 GitHub Insights & Metrics
 
 <div align="center">
 
@@ -220,8 +220,6 @@ me.say_hi()
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=taksh1507&theme=radical" alt="Productive Time"/></td>
   </tr>
 </table>
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=taksh_1507&theme=radical&hide_border=true&layout=compact" alt="Wakatime Stats"/>
 
 </div>
 
