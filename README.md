@@ -1,43 +1,278 @@
-✅ Replace Your Entire Trophy Section
-❌ Remove this code
-## 🏆 GitHub Achievements
+<div align="center">
+  
+# 👨‍💻 Hi, I'm Taksh Gandhi
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Cybersecurity+Enthusiast;Building+Scalable+%26+Secure+Systems;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+
+[![LinkedIn](https://img.shields.io/badge/-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taksh-gandhi-4136222b7)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:takshgandhi1507@gmail.com)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taksh1507)
+[![Instagram](https://img.shields.io/badge/-Connect-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/taksh_1507)
+
+<img src="https://komarev.com/ghpvc/?username=taksh1507&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+
+</div>
+
+---
+
+## 🚀 About Me
+
+```python
+class Taksh:
+    def __init__(self):
+        self.name = "Taksh Gandhi"
+        self.role = "Backend Developer & Cybersecurity Enthusiast"
+        self.education = "3rd Year IT Engineering Student"
+        self.location = "India"
+        self.interests = ["Backend Development", "Cybersecurity", "Cloud Architecture"]
+        
+    def say_hi(self):
+        print("Thanks for visiting! Let's build something amazing together!")
+
+me = Taksh()
+me.say_hi()
+```
+
+🎓 Currently pursuing **Bachelor's in Information Technology** (3rd Year)  
+💡 Passionate about building **robust backend systems** and exploring **cybersecurity**  
+🔭 Working on **scalable applications** and **security-focused projects**  
+🌱 Currently learning **Advanced DSA**, **System Design**, and **Penetration Testing**  
+⚡ Fun fact: I debug with coffee and secure systems for fun!
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### Web Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+### DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### Specializations & Learning Path
+![DSA](https://img.shields.io/badge/Data%20Structures-FF6F00?style=for-the-badge&logo=datacamp&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-00979D?style=for-the-badge&logo=hackaday&logoColor=white)
+![API Development](https://img.shields.io/badge/API%20Development-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Gen AI Tools
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+
+</div>
+
+---
+
+## 🏗️ Featured Projects
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🔔 AlertMe</h3>
+      <div align="center">
+        <a href="https://github.com/taksh1507/AlertMe-Government-Deadline-Assistant" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=taksh1507&repo=AlertMe-Government-Deadline-Assistant&theme=tokyonight" alt="AlertMe" />
+        </a>
+        <p>
+          <strong>Real-time Notification & Alerting System</strong><br>
+          Enterprise-grade notification platform with multi-channel support
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Real--time-FF6B6B?style=flat-square"/>
+        </p>
+        <ul align="left">
+          <li>🚨 Real-time event detection & processing</li>
+          <li>⚙️ Flexible alert rules & escalation</li>
+          <li>📊 Integration with monitoring platforms</li>
+          <li>🔐 Role-based access control</li>
+          <li>📝 Detailed audit trails</li>
+        </ul>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">📦 SubscriptionEngine</h3>
+      <div align="center">
+        <a href="https://github.com/taksh1507/subscriptionengine" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=taksh1507&repo=subscriptionengine&theme=tokyonight" alt="SubscriptionEngine" />
+        </a>
+        <p>
+          <strong>Automated Subscription Management Platform</strong><br>
+          Comprehensive solution for recurring billing & subscriptions
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/Backend-512BD4?style=flat-square"/>
+          <img src="https://img.shields.io/badge/Automation-00D9FF?style=flat-square"/>
+        </p>
+        <ul align="left">
+          <li>💳 Automated billing & invoicing</li>
+          <li>📅 Subscription plan management</li>
+          <li>🔗 Webhook & API integration</li>
+          <li>📈 Revenue analytics dashboard</li>
+          <li>🔔 Payment reminders & notifications</li>
+        </ul>
+      </div>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
   
-<img src="https://github-profile-trophy.vercel.app/?username=taksh1507&theme=radical&no-frame=true&margin-w=10&margin-h=10"/>
+<img src="https://github-readme-stats.vercel.app/api?username=taksh1507&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=taksh1507&theme=radical&hide_border=true" height="180px"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taksh1507&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180px"/>
 
 </div>
-✅ Replace With This (Working Version)
+
+---
+
 ## 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy-git-master-rzashakeri.vercel.app/?username=taksh1507&theme=algolia&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=taksh1507&theme=algolia&no-frame=true&margin-w=15&margin-h=15&row=1"/>
 </p>
 
-This version uses a stable mirror server, so GitHub proxy does not break it.
+---
 
-⚠️ After Updating
+## 📈 Contribution Graph
 
-Sometimes GitHub caches images.
+<div align="center">
 
-Do this once:
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=taksh1507&theme=react-dark&hide_border=true&area=true" width="100%"/>
 
-Edit README
+</div>
 
-Add a space anywhere
+---
 
-Commit again
-
-GitHub will refresh the cache and the trophies should appear.
-
-💡 If you want a more reliable alternative
-
-Instead of trophies (which break often), many developers now use GitHub Metrics, which looks better and never breaks.
-
-Example:
-
-## 📊 GitHub Metrics
+## 💼 Top Repositories
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taksh1507&theme=radical"/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=taksh1507&repo=AlertMe-Government-Deadline-Assistant&theme=radical"/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=taksh1507&repo=subscriptionengine&theme=radical"/>
+
 </p>
+
+---
+
+## 📚 Latest Skills & Certifications
+
+<div align="center">
+
+| Domain | Skills |
+|--------|--------|
+| **Backend** | Node.js, Express.js, RESTful APIs, Microservices, Authentication, Authorization |
+| **Frontend** | React.js, HTML5, CSS3, JavaScript, Responsive Design |
+| **Security** | CTF Challenges, Vulnerability Scanning, Penetration Testing |
+| **Database** | MySQL, PostgreSQL, MSSQL, Query Optimization, Indexing, Stored Procedures |
+| **DSA** | Trees, Graphs, Dynamic Programming, Greedy Algorithms |
+| **Gen AI** | ChatGPT, GitHub Copilot, Google Gemini, Prompt Engineering |
+| **Tools** | Git Workflows, CI/CD Basics, Docker (Learning) |
+
+</div>
+
+---
+
+## � GitHub Insights & Metrics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taksh1507&theme=radical" width="100%"/>
+
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=taksh1507&theme=radical" alt="Repos per Language"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=taksh1507&theme=radical" alt="Most Commit Language"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=taksh1507&theme=radical" alt="Stats"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=taksh1507&theme=radical" alt="Productive Time"/></td>
+  </tr>
+</table>
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=taksh_1507&theme=radical&hide_border=true&layout=compact" alt="Wakatime Stats"/>
+
+</div>
+
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+## 🤝 Let's Collaborate!
+
+<div align="center">
+
+I'm always interested in collaborating on:
+- 🔧 **Backend Projects** - APIs, Microservices, System Design
+- 🔒 **Security Tools** - Vulnerability scanners, Security automation
+- 📚 **Open Source** - Contributing to meaningful projects
+- 💡 **Innovative Ideas** - Let's build something amazing!
+
+### 📬 Reach Out
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/taksh-gandhi-4136222b7" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:takshgandhi1507@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/taksh1507" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.instagram.com/taksh_1507" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+<p align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
+</p>
+
+<p align="center">⭐️ From <a href="https://github.com/taksh1507">taksh1507</a> with 💙</p>
+
+</div>
