@@ -158,11 +158,9 @@ me.say_hi()
 
 ## 🏆 GitHub Achievements
 
-<div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=taksh1507&theme=radical&no-frame=true&margin-w=10&margin-h=10"/>
-
-</div>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=taksh1507&theme=algolia&no-frame=true&margin-w=15&margin-h=15&row=1"/>
+</p>
 
 ---
 
@@ -178,13 +176,13 @@ me.say_hi()
 
 ## 💼 Top Repositories
 
-<div align="center">
-  
+<p align="center">
+
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=taksh1507&repo=AlertMe-Government-Deadline-Assistant&theme=radical"/>
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=taksh1507&repo=subscriptionengine&theme=radical"/>
 
-</div>
+</p>
 
 ---
 
