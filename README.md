@@ -147,7 +147,7 @@ me.say_hi()
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=taksh1507&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=taksh1507&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180px"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=taksh1507&theme=radical&hide_border=true" height="180px"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taksh1507&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180px"/>
@@ -160,7 +160,7 @@ me.say_hi()
 
 <div align="center">
   
-<img src="https://github-profile-trophy.vercel.app/?username=taksh1507&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=taksh1507&theme=radical&no-frame=true&margin-w=10&margin-h=10"/>
 
 </div>
 
@@ -180,7 +180,9 @@ me.say_hi()
 
 <div align="center">
   
-<img src="https://github-contributor-stats.vercel.app/api?username=taksh1507&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=taksh1507&repo=AlertMe-Government-Deadline-Assistant&theme=radical"/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=taksh1507&repo=subscriptionengine&theme=radical"/>
 
 </div>
 
