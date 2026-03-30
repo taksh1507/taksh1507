@@ -41,6 +41,15 @@ me.say_hi()
 
 ---
 
+## 🧠 Impact & Achievements
+
+- 🚀 Built scalable backend systems handling real-time workflows  
+- 🤖 Developed AI-powered applications solving real-world problems  
+- 🔐 Implemented secure authentication & role-based access systems  
+- 📈 Optimized APIs and database queries for performance
+
+---
+
 ## 🛠️ Tech Arsenal
 
 <div align="center">
@@ -83,6 +92,17 @@ me.say_hi()
 </div>
 
 ---
+
+## 🏗️ System Design Focus
+
+- 🔹 Scalable microservices architecture  
+- 🔹 JWT-based authentication systems  
+- 🔹 Async task handling (queues & schedulers)  
+- 🔹 Database optimization & indexing
+
+---
+
+
 ## 🏗️ Featured Projects
 
 <div align="center">
@@ -152,6 +172,23 @@ me.say_hi()
 </table>
 
 </div>
+---
+
+## 🚧 Currently Building
+
+- 🧠 AI-powered productivity systems  
+- 🔔 Smart deadline & automation platform  
+- 🔐 Secure backend architectures  
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=taksh1507&theme=radical&no-frame=true&row=1"/>
+
+</div>
 
 ---
 
@@ -173,24 +210,6 @@ me.say_hi()
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=taksh1507&theme=react-dark&hide_border=true&area=true" width="100%"/>
-
-</div>
-
----
-
-## 💼 Top Repositories
-
-<div align="center">
-
-<img width="45%" src="https://github-readme-stats-sigma-woad-34.vercel.app/api/pin/?username=taksh1507&repo=OpsMind-AI-Restaurant-Operations-Intelligence-System&theme=radical&hide_border=true&cache_seconds=86400"/>
-
-<img width="45%" src="https://github-readme-stats-sigma-woad-34.vercel.app/api/pin/?username=taksh1507&repo=LegalEaseAI&theme=radical&hide_border=true&cache_seconds=86400"/>
-
-<br/>
-
-<img width="45%" src="https://github-readme-stats-sigma-woad-34.vercel.app/api/pin/?username=taksh1507&repo=streakforce-backend&theme=radical&hide_border=true&cache_seconds=86400"/>
-
-<img width="45%" src="https://github-readme-stats-sigma-woad-34.vercel.app/api/pin/?username=taksh1507&repo=AIBot-n8n&theme=radical&hide_border=true&cache_seconds=86400"/>
 
 </div>
 
