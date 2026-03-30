@@ -180,14 +180,19 @@ me.say_hi()
 
 ## 💼 Top Repositories
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=taksh1507&repo=AlertMe-Government-Deadline-Assistant&theme=radical"/>
+<img width="45%" src="https://github-readme-stats-sigma-woad-34.vercel.app/api/pin/?username=taksh1507&repo=OpsMind-AI-Restaurant-Operations-Intelligence-System&theme=radical&hide_border=true&cache_seconds=86400"/>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=taksh1507&repo=subscriptionengine&theme=radical"/>
+<img width="45%" src="https://github-readme-stats-sigma-woad-34.vercel.app/api/pin/?username=taksh1507&repo=LegalEaseAI&theme=radical&hide_border=true&cache_seconds=86400"/>
 
-</p>
+<br/>
 
+<img width="45%" src="https://github-readme-stats-sigma-woad-34.vercel.app/api/pin/?username=taksh1507&repo=streakforce-backend&theme=radical&hide_border=true&cache_seconds=86400"/>
+
+<img width="45%" src="https://github-readme-stats-sigma-woad-34.vercel.app/api/pin/?username=taksh1507&repo=AIBot-n8n&theme=radical&hide_border=true&cache_seconds=86400"/>
+
+</div>
 ---
 
 ## 📚 Latest Skills & Certifications
