@@ -147,15 +147,25 @@ me.say_hi()
 
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taksh1507&theme=default)
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taksh1507&theme=default)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=taksh1507&theme=default)
+![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=taksh1507&theme=default)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=taksh1507&theme=default)
+![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=taksh1507&theme=default)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=taksh1507&theme=default)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=taksh1507&theme=default)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=taksh1507&theme=default&utcOffset=8)
+![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=taksh1507&theme=default&utcOffset=8)
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=taksh1507&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180px" alt="GitHub Stats"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=taksh1507&theme=radical&hide_border=true" height="180px" alt="GitHub Streak"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taksh1507&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180px" alt="Top Languages"/>
 
 </div>
 
