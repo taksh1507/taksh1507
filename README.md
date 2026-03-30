@@ -131,20 +131,20 @@ me.say_hi()
 
 </div>
 ---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=taksh1507&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="180px"/>
+<img src="https://github-readme-stats-sigma-woad-34.vercel.app/api?username=taksh1507&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&cache_seconds=86400" height="180px"/>
 
 <img src="https://streak-stats.demolab.com?user=taksh1507&theme=radical&hide_border=true" height="180px"/>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=taksh1507&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180px"/>
+<img src="https://github-readme-stats-sigma-woad-34.vercel.app/api/top-langs/?username=taksh1507&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400" height="180px"/>
 
 </div>
 
 ---
-
 ## 📈 Contribution Graph
 
 <div align="center">
