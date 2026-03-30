@@ -172,6 +172,8 @@ me.say_hi()
 </table>
 
 </div>
+
+
 ---
 
 
@@ -183,15 +185,6 @@ me.say_hi()
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy-git-masterrstaa-rickstaa.vercel.app/?username=taksh1507&theme=radical&no-frame=true&row=1"/>
-
-</div>
-
----
 
 ## 📊 GitHub Analytics
 
