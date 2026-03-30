@@ -197,7 +197,7 @@ me.say_hi()
 
 ---
 
-## � GitHub Insights & Metrics
+## GitHub Insights & Metrics
 
 <div align="center">
 
@@ -214,8 +214,7 @@ me.say_hi()
   </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=taksh_1507&theme=radical&hide_border=true&layout=compact" alt="Wakatime Stats"/>
-
+<img src="https://github-readme-stats-sigma-woad-34.vercel.app/api/wakatime?username=taksh_1507&theme=radical&hide_border=true&layout=compact"/>
 </div>
 
 ---
