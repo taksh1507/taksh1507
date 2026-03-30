@@ -1,4 +1,4 @@
-<div align="center">
+w<div align="center">
   
 # 👨‍💻 Hi, I'm Taksh Gandhi
 
@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 About Me
+## �  About Me
 
 ```python
 class Taksh:
@@ -35,7 +35,7 @@ me.say_hi()
 
 🎓 Currently pursuing **Bachelor's in Information Technology** (3rd Year)  
 💡 Passionate about building **robust backend systems** and exploring **cybersecurity**  
-🔭 Working on **scalable applications** and **security-focused projects**  
+� Workinag on **scalable applications** and **security-focused projects**  
 🌱 Currently learning **Advanced DSA**, **System Design**, and **Penetration Testing**  
 ⚡ Fun fact: I debug with coffee and secure systems for fun!
 
@@ -146,11 +146,16 @@ me.say_hi()
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=taksh1507&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180px"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=taksh1507&theme=radical&hide_border=true" height="180px"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taksh1507&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180px"/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taksh1507&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=taksh1507&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=taksh1507&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=taksh1507&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=taksh1507&theme=default&utcOffset=8)
 
 </div>
 
@@ -191,29 +196,6 @@ me.say_hi()
 | **DSA** | Trees, Graphs, Dynamic Programming, Greedy Algorithms |
 | **Gen AI** | ChatGPT, GitHub Copilot, Google Gemini, Prompt Engineering |
 | **Tools** | Git Workflows, CI/CD Basics, Docker (Learning) |
-
-</div>
-
----
-
-## � GitHub Insights & Metrics
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taksh1507&theme=radical" width="100%"/>
-
-<table>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=taksh1507&theme=radical" alt="Repos per Language"/></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=taksh1507&theme=radical" alt="Most Commit Language"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=taksh1507&theme=radical" alt="Stats"/></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=taksh1507&theme=radical" alt="Productive Time"/></td>
-  </tr>
-</table>
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=taksh_1507&theme=radical&hide_border=true&layout=compact" alt="Wakatime Stats"/>
 
 </div>
 
