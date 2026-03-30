@@ -83,86 +83,54 @@ me.say_hi()
 </div>
 
 ---
-
-## 🏗️ Featured Projects
-
 ## 🏗️ Featured Projects
 
 <div align="center">
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">🤖 OpsMind AI</h3>
-      <div align="center">
-        <a href="https://github.com/taksh1507/OpsMind-AI-Restaurant-Operations-Intelligence-System" target="_blank">
-          <img src="https://github-readme-stats-sigma-woad-34.vercel.app/api/pin/?username=taksh1507&repo=OpsMind-AI-Restaurant-Operations-Intelligence-System&theme=tokyonight" />
-        </a>
-        <p><strong>AI-powered Restaurant Intelligence System</strong></p>
-        <ul align="left">
-          <li>🍽️ Smart operational insights</li>
-          <li>📊 Data-driven decision making</li>
-          <li>🤖 AI-based optimization</li>
-        </ul>
-      </div>
+    <td width="50%" align="center">
+      <h3>🤖 OpsMind AI</h3>
+      <a href="https://github.com/taksh1507/OpsMind-AI-Restaurant-Operations-Intelligence-System" target="_blank">
+        <img src="https://github-readme-stats-sigma-woad-34.vercel.app/api/pin/?username=taksh1507&repo=OpsMind-AI-Restaurant-Operations-Intelligence-System&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+      </a>
+      <p><strong>AI-powered Restaurant Intelligence System</strong></p>
+      <p>🍽️ Smart insights • 📊 Data-driven decisions • 🤖 AI optimization</p>
     </td>
 
-    <td width="50%">
-      <h3 align="center">⚙️ StreakForce Backend</h3>
-      <div align="center">
-        <a href="https://github.com/taksh1507/streakforce-backend" target="_blank">
-          <img src="https://github-readme-stats-sigma-woad-34.vercel.app/api/pin/?username=taksh1507&repo=streakforce-backend&theme=tokyonight" />
-        </a>
-        <p><strong>Scalable backend system</strong></p>
-        <ul align="left">
-          <li>🚀 High-performance APIs</li>
-          <li>🔐 Secure authentication</li>
-          <li>📦 Modular architecture</li>
-        </ul>
-      </div>
+    <td width="50%" align="center">
+      <h3>⚙️ StreakForce Backend</h3>
+      <a href="https://github.com/taksh1507/streakforce-backend" target="_blank">
+        <img src="https://github-readme-stats-sigma-woad-34.vercel.app/api/pin/?username=taksh1507&repo=streakforce-backend&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+      </a>
+      <p><strong>Scalable backend system</strong></p>
+      <p>🚀 High-performance APIs • 🔐 Secure auth • 📦 Modular design</p>
     </td>
   </tr>
 
   <tr>
-    <td width="50%">
-      <h3 align="center">🤖 AI Bot (n8n)</h3>
-      <div align="center">
-        <a href="https://github.com/taksh1507/AIBot-n8n" target="_blank">
-          <img src="https://github-readme-stats-sigma-woad-34.vercel.app/api/pin/?username=taksh1507&repo=AIBot-n8n&theme=tokyonight" />
-        </a>
-        <p><strong>AI Telegram Chatbot Automation</strong></p>
-        <ul align="left">
-          <li>💬 Real-time chat automation</li>
-          <li>⚡ Fast AI responses</li>
-          <li>🔗 Workflow automation with n8n</li>
-        </ul>
-      </div>
+    <td width="50%" align="center">
+      <h3>🤖 AI Bot (n8n)</h3>
+      <a href="https://github.com/taksh1507/AIBot-n8n" target="_blank">
+        <img src="https://github-readme-stats-sigma-woad-34.vercel.app/api/pin/?username=taksh1507&repo=AIBot-n8n&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+      </a>
+      <p><strong>AI Telegram Chatbot Automation</strong></p>
+      <p>💬 Real-time chat • ⚡ Fast AI • 🔗 Workflow automation</p>
     </td>
 
-    <td width="50%">
-      <h3 align="center">⚖️ LegalEase AI</h3>
-      <div align="center">
-        <a href="https://github.com/taksh1507/LegalEaseAI" target="_blank">
-          <img src="https://github-readme-stats-sigma-woad-34.vercel.app/api/pin/?username=taksh1507&repo=LegalEaseAI&theme=tokyonight" />
-        </a>
-        <p><strong>AI-powered Legal Document Analyzer</strong></p>
-        <ul align="left">
-          <li>📄 Document summarization</li>
-          <li>⚠️ Risk detection</li>
-          <li>🤖 AI chatbot assistant</li>
-        </ul>
-      </div>
+    <td width="50%" align="center">
+      <h3>⚖️ LegalEase AI</h3>
+      <a href="https://github.com/taksh1507/LegalEaseAI" target="_blank">
+        <img src="https://github-readme-stats-sigma-woad-34.vercel.app/api/pin/?username=taksh1507&repo=LegalEaseAI&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+      </a>
+      <p><strong>AI Legal Document Analyzer</strong></p>
+      <p>📄 Summarization • ⚠️ Risk detection • 🤖 AI assistant</p>
     </td>
   </tr>
-
 </table>
 
 </div>
-
 ---
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
