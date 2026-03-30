@@ -86,60 +86,80 @@ me.say_hi()
 
 ## 🏗️ Featured Projects
 
+## 🏗️ Featured Projects
+
 <div align="center">
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🔔 AlertMe</h3>
+      <h3 align="center">🤖 OpsMind AI</h3>
       <div align="center">
-        <a href="https://github.com/taksh1507/AlertMe-Government-Deadline-Assistant" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=taksh1507&repo=AlertMe-Government-Deadline-Assistant&theme=tokyonight" alt="AlertMe" />
+        <a href="https://github.com/taksh1507/OpsMind-AI-Restaurant-Operations-Intelligence-System" target="_blank">
+          <img src="https://github-readme-stats-sigma-woad-34.vercel.app/api/pin/?username=taksh1507&repo=OpsMind-AI-Restaurant-Operations-Intelligence-System&theme=tokyonight" />
         </a>
-        <p>
-          <strong>Real-time Notification & Alerting System</strong><br>
-          Enterprise-grade notification platform with multi-channel support
-        </p>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Real--time-FF6B6B?style=flat-square"/>
-        </p>
+        <p><strong>AI-powered Restaurant Intelligence System</strong></p>
         <ul align="left">
-          <li>🚨 Real-time event detection & processing</li>
-          <li>⚙️ Flexible alert rules & escalation</li>
-          <li>📊 Integration with monitoring platforms</li>
-          <li>🔐 Role-based access control</li>
-          <li>📝 Detailed audit trails</li>
+          <li>🍽️ Smart operational insights</li>
+          <li>📊 Data-driven decision making</li>
+          <li>🤖 AI-based optimization</li>
         </ul>
       </div>
     </td>
+
     <td width="50%">
-      <h3 align="center">📦 SubscriptionEngine</h3>
+      <h3 align="center">⚙️ StreakForce Backend</h3>
       <div align="center">
-        <a href="https://github.com/taksh1507/subscriptionengine" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=taksh1507&repo=subscriptionengine&theme=tokyonight" alt="SubscriptionEngine" />
+        <a href="https://github.com/taksh1507/streakforce-backend" target="_blank">
+          <img src="https://github-readme-stats-sigma-woad-34.vercel.app/api/pin/?username=taksh1507&repo=streakforce-backend&theme=tokyonight" />
         </a>
-        <p>
-          <strong>Automated Subscription Management Platform</strong><br>
-          Comprehensive solution for recurring billing & subscriptions
-        </p>
-        <p>
-          <img src="https://img.shields.io/badge/Backend-512BD4?style=flat-square"/>
-          <img src="https://img.shields.io/badge/Automation-00D9FF?style=flat-square"/>
-        </p>
+        <p><strong>Scalable backend system</strong></p>
         <ul align="left">
-          <li>💳 Automated billing & invoicing</li>
-          <li>📅 Subscription plan management</li>
-          <li>🔗 Webhook & API integration</li>
-          <li>📈 Revenue analytics dashboard</li>
-          <li>🔔 Payment reminders & notifications</li>
+          <li>🚀 High-performance APIs</li>
+          <li>🔐 Secure authentication</li>
+          <li>📦 Modular architecture</li>
         </ul>
       </div>
     </td>
   </tr>
+
+  <tr>
+    <td width="50%">
+      <h3 align="center">🤖 AI Bot (n8n)</h3>
+      <div align="center">
+        <a href="https://github.com/taksh1507/AIBot-n8n" target="_blank">
+          <img src="https://github-readme-stats-sigma-woad-34.vercel.app/api/pin/?username=taksh1507&repo=AIBot-n8n&theme=tokyonight" />
+        </a>
+        <p><strong>AI Telegram Chatbot Automation</strong></p>
+        <ul align="left">
+          <li>💬 Real-time chat automation</li>
+          <li>⚡ Fast AI responses</li>
+          <li>🔗 Workflow automation with n8n</li>
+        </ul>
+      </div>
+    </td>
+
+    <td width="50%">
+      <h3 align="center">⚖️ LegalEase AI</h3>
+      <div align="center">
+        <a href="https://github.com/taksh1507/LegalEaseAI" target="_blank">
+          <img src="https://github-readme-stats-sigma-woad-34.vercel.app/api/pin/?username=taksh1507&repo=LegalEaseAI&theme=tokyonight" />
+        </a>
+        <p><strong>AI-powered Legal Document Analyzer</strong></p>
+        <ul align="left">
+          <li>📄 Document summarization</li>
+          <li>⚠️ Risk detection</li>
+          <li>🤖 AI chatbot assistant</li>
+        </ul>
+      </div>
+    </td>
+  </tr>
+
 </table>
 
 </div>
+
+---
 
 ---
 
