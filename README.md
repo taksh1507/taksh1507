@@ -157,13 +157,13 @@ me.say_hi()
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<div align="center"> 
+  
+<img src="https://github-readme-stats-sigma-woad-34.vercel.app/api?username=taksh1507&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&cache_seconds=86400" height="180px"/>
+  
+<img src="https://streak-stats.demolab.com?user=taksh1507&theme=radical&hide_border=true" height="180px"/> 
 
-<img width="32%" src="https://github-readme-stats-sigma-woad-34.vercel.app/api?username=taksh1507&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&cache_seconds=86400"/>
-
-<img width="32%" src="https://streak-stats.demolab.com?user=taksh1507&theme=radical&hide_border=true"/>
-
-<img width="32%" src="https://github-readme-stats-sigma-woad-34.vercel.app/api/top-langs/?username=taksh1507&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400"/>
+<img src="https://github-readme-stats-sigma-woad-34.vercel.app/api/top-langs/?username=taksh1507&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400" height="180px"/> 
 
 </div>
 
