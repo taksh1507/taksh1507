@@ -87,11 +87,11 @@ me.say_hi()
 
 <div align="center">
 
-<h3>🤖 AI & Intelligent Systems</h3>
+### 🤖 AI & Intelligent Systems
 
 <table>
-  <tr>
-    <td width="50%" align="center">
+<tr>
+<td width="50%" align="center">
 
 <h4>🤖 OpsMind AI</h4>
 
@@ -102,9 +102,9 @@ me.say_hi()
 <p><strong>Restaurant Intelligence System</strong></p>
 <p>🍽️ Insights • 📊 Analytics • 🤖 AI Optimization</p>
 
-    </td>
+</td>
 
-    <td width="50%" align="center">
+<td width="50%" align="center">
 
 <h4>⚖️ LegalEase AI</h4>
 
@@ -115,17 +115,15 @@ me.say_hi()
 <p><strong>AI Legal Analyzer</strong></p>
 <p>📄 Summarization • ⚠️ Risk Detection • 🤖 Assistant</p>
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
-<br/>
-
-<h3>⚙️ Backend & Automation</h3>
+### ⚙️ Backend & Automation
 
 <table>
-  <tr>
-    <td width="50%" align="center">
+<tr>
+<td width="50%" align="center">
 
 <h4>⚙️ StreakForce Backend</h4>
 
@@ -136,9 +134,9 @@ me.say_hi()
 <p><strong>Scalable Backend System</strong></p>
 <p>🚀 APIs • 🔐 Auth • 📦 Modular</p>
 
-    </td>
+</td>
 
-    <td width="50%" align="center">
+<td width="50%" align="center">
 
 <h4>🤖 AI Bot (n8n)</h4>
 
@@ -149,22 +147,23 @@ me.say_hi()
 <p><strong>Telegram AI Bot</strong></p>
 <p>💬 Chat • ⚡ Fast AI • 🔗 Automation</p>
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 </div>
+
 ---
----
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-woad-34.vercel.app/api?username=taksh1507&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&cache_seconds=86400" height="180px"/>
+<img width="32%" src="https://github-readme-stats-sigma-woad-34.vercel.app/api?username=taksh1507&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&cache_seconds=86400"/>
 
-<img src="https://streak-stats.demolab.com?user=taksh1507&theme=radical&hide_border=true" height="180px"/>
+<img width="32%" src="https://streak-stats.demolab.com?user=taksh1507&theme=radical&hide_border=true"/>
 
-<img src="https://github-readme-stats-sigma-woad-34.vercel.app/api/top-langs/?username=taksh1507&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400" height="180px"/>
+<img width="32%" src="https://github-readme-stats-sigma-woad-34.vercel.app/api/top-langs/?username=taksh1507&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400"/>
 
 </div>
 
