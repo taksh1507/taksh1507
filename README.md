@@ -174,6 +174,7 @@ me.say_hi()
 </div>
 ---
 
+
 ## 🚧 Currently Building
 
 - 🧠 AI-powered productivity systems  
@@ -186,7 +187,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=taksh1507&theme=radical&no-frame=true&row=1"/>
+<img src="https://github-profile-trophy-git-masterrstaa-rickstaa.vercel.app/?username=taksh1507&theme=radical&no-frame=true&row=1"/>
 
 </div>
 
