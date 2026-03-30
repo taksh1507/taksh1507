@@ -87,65 +87,74 @@ me.say_hi()
 
 <div align="center">
 
+<h3>🤖 AI & Intelligent Systems</h3>
+
 <table>
   <tr>
     <td width="50%" align="center">
 
-<h3>🤖 OpsMind AI</h3>
+<h4>🤖 OpsMind AI</h4>
 
 <a href="https://github.com/taksh1507/OpsMind-AI-Restaurant-Operations-Intelligence-System">
 <img src="https://github-readme-stats-sigma-woad-34.vercel.app/api/pin/?username=taksh1507&repo=OpsMind-AI-Restaurant-Operations-Intelligence-System&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </a>
 
-<p><strong>AI-powered Restaurant Intelligence System</strong></p>
-<p>🍽️ Smart insights • 📊 Data-driven decisions • 🤖 AI optimization</p>
+<p><strong>Restaurant Intelligence System</strong></p>
+<p>🍽️ Insights • 📊 Analytics • 🤖 AI Optimization</p>
 
     </td>
 
     <td width="50%" align="center">
 
-<h3>⚙️ StreakForce Backend</h3>
-
-<a href="https://github.com/taksh1507/streakforce-backend">
-<img src="https://github-readme-stats-sigma-woad-34.vercel.app/api/pin/?username=taksh1507&repo=streakforce-backend&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-</a>
-
-<p><strong>Scalable backend system</strong></p>
-<p>🚀 High-performance APIs • 🔐 Secure auth • 📦 Modular design</p>
-
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" align="center">
-
-<h3>🤖 AI Bot (n8n)</h3>
-
-<a href="https://github.com/taksh1507/AIBot-n8n">
-<img src="https://github-readme-stats-sigma-woad-34.vercel.app/api/pin/?username=taksh1507&repo=AIBot-n8n&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-</a>
-
-<p><strong>AI Telegram Chatbot Automation</strong></p>
-<p>💬 Real-time chat • ⚡ Fast AI • 🔗 Workflow automation</p>
-
-    </td>
-
-    <td width="50%" align="center">
-
-<h3>⚖️ LegalEase AI</h3>
+<h4>⚖️ LegalEase AI</h4>
 
 <a href="https://github.com/taksh1507/LegalEaseAI">
 <img src="https://github-readme-stats-sigma-woad-34.vercel.app/api/pin/?username=taksh1507&repo=LegalEaseAI&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </a>
 
-<p><strong>AI Legal Document Analyzer</strong></p>
-<p>📄 Summarization • ⚠️ Risk detection • 🤖 AI assistant</p>
+<p><strong>AI Legal Analyzer</strong></p>
+<p>📄 Summarization • ⚠️ Risk Detection • 🤖 Assistant</p>
+
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<h3>⚙️ Backend & Automation</h3>
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+
+<h4>⚙️ StreakForce Backend</h4>
+
+<a href="https://github.com/taksh1507/streakforce-backend">
+<img src="https://github-readme-stats-sigma-woad-34.vercel.app/api/pin/?username=taksh1507&repo=streakforce-backend&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+</a>
+
+<p><strong>Scalable Backend System</strong></p>
+<p>🚀 APIs • 🔐 Auth • 📦 Modular</p>
+
+    </td>
+
+    <td width="50%" align="center">
+
+<h4>🤖 AI Bot (n8n)</h4>
+
+<a href="https://github.com/taksh1507/AIBot-n8n">
+<img src="https://github-readme-stats-sigma-woad-34.vercel.app/api/pin/?username=taksh1507&repo=AIBot-n8n&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+</a>
+
+<p><strong>Telegram AI Bot</strong></p>
+<p>💬 Chat • ⚡ Fast AI • 🔗 Automation</p>
 
     </td>
   </tr>
 </table>
 
 </div>
+---
 ---
 ## 📊 GitHub Analytics
 
