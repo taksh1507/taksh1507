@@ -191,7 +191,7 @@ me.say_hi()
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taksh1507&theme=radical" width="100%"/>
 <img
   src="https://streak-stats.demolab.com?user=taksh1507&theme=radical&hide_border=true"
-  width="32%"
+  width="100%"
 />
 
 <table>
