@@ -116,7 +116,7 @@ me.say_hi()
 <h4>🤖 OpsMind AI</h4>
 
 <a href="https://github.com/taksh1507/OpsMind-AI-Restaurant-Operations-Intelligence-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=taksh1507&repo=OpsMind-AI-Restaurant-Operations-Intelligence-System&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+<img src="https://github-readme-stats-sigma-woad-34.vercel.app/api/pin/?username=taksh1507&repo=OpsMind-AI-Restaurant-Operations-Intelligence-System&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </a>
 
 <p><strong>Restaurant Intelligence System</strong></p>
@@ -129,7 +129,7 @@ me.say_hi()
 <h4>⚖️ LegalEase AI</h4>
 
 <a href="https://github.com/taksh1507/LegalEaseAI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=taksh1507&repo=LegalEaseAI&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+<img src="https://github-readme-stats-sigma-woad-34.vercel.app/api/pin/?username=taksh1507&repo=LegalEaseAI&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </a>
 
 <p><strong>AI Legal Analyzer</strong></p>
@@ -148,7 +148,7 @@ me.say_hi()
 <h4>⚙️ StreakForce Backend</h4>
 
 <a href="https://github.com/taksh1507/streakforce-backend">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=taksh1507&repo=streakforce-backend&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+<img src="https://github-readme-stats-sigma-woad-34.vercel.app/api/pin/?username=taksh1507&repo=streakforce-backend&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </a>
 
 <p><strong>Scalable Backend System</strong></p>
@@ -161,7 +161,7 @@ me.say_hi()
 <h4>🤖 AI Bot (n8n)</h4>
 
 <a href="https://github.com/taksh1507/AIBot-n8n">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=taksh1507&repo=AIBot-n8n&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+<img src="https://github-readme-stats-sigma-woad-34.vercel.app/api/pin/?username=taksh1507&repo=AIBot-n8n&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </a>
 
 <p><strong>Telegram AI Bot</strong></p>
@@ -206,9 +206,7 @@ me.say_hi()
 />
 
 </div>
-
 ---
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -306,13 +304,5 @@ I'm always interested in collaborating on:
 </p>
 
 <p align="center">⭐️ From <a href="https://github.com/taksh1507">taksh1507</a> with 💙</p>
-
-</div>
-
-
-<p align="center">⭐️ From <a href="https://github.com/taksh1507">taksh1507</a> with 💙</p>
-
-</div>
-<img src="https://komarev.com/ghpvc/?username=taksh1507&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 
 </div>
