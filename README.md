@@ -181,7 +181,30 @@ me.say_hi()
 
 - 🧠 AI-powered productivity systems  
 - 🔔 Smart deadline & automation platform  
-- 🔐 Secure backend architectures  
+- 🔐 Secure backend architectures
+---
+
+## GitHub Insights & Metrics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taksh1507&theme=radical" width="100%"/>
+
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=taksh1507&theme=radical" alt="Repos per Language"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=taksh1507&theme=radical" alt="Most Commit Language"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=taksh1507&theme=radical" alt="Stats"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=taksh1507&theme=radical" alt="Productive Time"/></td>
+  </tr>
+</table>
+
+<img src="https://github-readme-stats-sigma-woad-34.vercel.app/api/wakatime?username=taksh_1507&theme=radical&hide_border=true&layout=compact"/>
+</div>
+
+---
 
 ## 📊 GitHub Analytics
 
@@ -237,29 +260,7 @@ me.say_hi()
 
 </div>
 
----
 
-## GitHub Insights & Metrics
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taksh1507&theme=radical" width="100%"/>
-
-<table>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=taksh1507&theme=radical" alt="Repos per Language"/></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=taksh1507&theme=radical" alt="Most Commit Language"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=taksh1507&theme=radical" alt="Stats"/></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=taksh1507&theme=radical" alt="Productive Time"/></td>
-  </tr>
-</table>
-
-<img src="https://github-readme-stats-sigma-woad-34.vercel.app/api/wakatime?username=taksh_1507&theme=radical&hide_border=true&layout=compact"/>
-</div>
-
----
 
 ## 💡 Random Dev Quote
 
