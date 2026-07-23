@@ -189,6 +189,10 @@ me.say_hi()
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taksh1507&theme=radical" width="100%"/>
+<img
+  src="https://streak-stats.demolab.com?user=taksh1507&theme=radical&hide_border=true"
+  width="32%"
+/>
 
 <table>
   <tr>
@@ -206,33 +210,6 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taksh1507&theme=radical"
-  width="100%"
-/>
-
-<br><br>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=taksh1507&theme=radical"
-  width="32%"
-/>
-
-<img
-  src="https://streak-stats.demolab.com?user=taksh1507&theme=radical&hide_border=true"
-  width="32%"
-/>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=taksh1507&theme=radical"
-  width="32%"
-/>
-
-</div>
 
 ## 📈 Contribution Graph
 
